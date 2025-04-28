@@ -1,1 +1,1 @@
-# qizil-rasm
+# qizil-rasimli
